@@ -1,5 +1,17 @@
 # @backstage/plugin-org
 
+## 0.6.0-next.2
+
+### Patch Changes
+
+- 38dd29ea95: Add entity kind to the Ownership Cards. Fix the query parameters for the links of the Ownership Cards so that the catalog page actually selects the right entity kind.
+- Updated dependencies
+  - @backstage/catalog-model@1.1.3-next.0
+  - @backstage/core-components@0.12.0-next.1
+  - @backstage/core-plugin-api@1.1.0-next.0
+  - @backstage/theme@0.2.16
+  - @backstage/plugin-catalog-react@1.2.1-next.1
+
 ## 0.6.0-next.1
 
 ### Minor Changes

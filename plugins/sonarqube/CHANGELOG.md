@@ -1,5 +1,21 @@
 # @backstage/plugin-sonarqube
 
+## 0.5.0-next.2
+
+### Minor Changes
+
+- 786117e98a: Fix sonarqube annotation parsing. Add content page for Sonarqube.
+  Removed the deprecated `plugin` export; please use `sonarQubePlugin` instead.
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/catalog-model@1.1.3-next.0
+  - @backstage/core-components@0.12.0-next.1
+  - @backstage/core-plugin-api@1.1.0-next.0
+  - @backstage/theme@0.2.16
+  - @backstage/plugin-catalog-react@1.2.1-next.1
+
 ## 0.4.3-next.1
 
 ### Patch Changes
